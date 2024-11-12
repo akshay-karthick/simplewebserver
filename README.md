@@ -22,7 +22,8 @@ Serving the HTML pages.
 Testing the webserver.
 
 ## PROGRAM:
-<html>
+##  
+    <html>
     <body>
         <h1 align="center">LAPTOP SPECIFICATIONS (Akshay Karthick ASR,24002815) </h1>
         <ol>
@@ -32,7 +33,7 @@ Testing the webserver.
         <li>Device ID - 15EEA3B2-7EF5-4DEC-903D-577382C3C005</li>
         <li>System Type - 64 bit </li></ol>
     </body>
-</html>    ;
+    </html>
 
 ## OUTPUT:
 ![alt text](<Screenshot (28).png>)

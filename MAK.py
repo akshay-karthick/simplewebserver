@@ -10,7 +10,7 @@ content = """
         <li>Device ID - 15EEA3B2-7EF5-4DEC-903D-577382C3C005</li>
         <li>System Type - 64 bit </li></ol>
     </body>
-</html>    ;
+</html>    
 """
 class myhandler(BaseHTTPRequestHandler):
     def do_GET(self):
